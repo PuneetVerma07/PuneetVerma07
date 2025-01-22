@@ -6,8 +6,8 @@
 
 I am a passionate software developer with a keen interest in web development, data science, and open-source contributions. I enjoy solving complex problems, learning new technologies, and sharing knowledge with the community.
 
-- 🔭 I’m currently working on **[Project Name]**
-- 🌱 I’m currently learning **[Technology/Language]**
+- 🔭 I’m currently working on Build a Transcriber
+- 🌱 I’m currently learning Full-stack(MERN)
 - 👯 I’m looking to collaborate on **[Open Source Projects/Ideas]**
 - 💬 Ask me about **[Topics of Expertise]**
 - 📫 How to reach me: **[Your Email]**
