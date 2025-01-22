@@ -29,7 +29,7 @@ I am a passionate software developer with a keen interest in web development, da
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/puneetverma7)](https://www.linkedin.com/in/puneetverma7)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/PuneetVerma_7)](https://twitter.com/yourprofile)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/PuneetVerma_7)](https://twitter.com/PuneetVerma_7)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:your.email@example.com)](mailto:your.email@example.com)
 
 ## Recent Activity
