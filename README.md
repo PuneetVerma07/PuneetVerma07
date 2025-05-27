@@ -9,8 +9,8 @@ I am a passionate software developer with a keen interest in web development, da
 - 🔭 I’m currently working on **[Build a Transcriber]**
 - 🌱 I’m currently learning **[Full-stack(MERN)]**
 - 👯 I’m looking to collaborate on **[Open Source Projects/Ideas]**
-- 💬 Ask me about **[Topics of Expertise]**
-- 📫 How to reach me: **[Your Email]**
+- 💬 Ask me about **[HTML, CSS, RESPONSIVE DESIGN, JAVASCRIPT, REACT, TAILWIND]**
+- 📫 How to reach me: **pk2382849@gmail.com**
 - ⚡ Fun fact: **[Expanding knowledge in an entertaining manner.]**
 
 ## Skills and Technologies
