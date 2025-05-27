@@ -15,7 +15,7 @@ I am a passionate software developer with a keen interest in web development, da
 
 ## Skills and Technologies
 
-- **Languages:** Python, JavaScript, Java, C++
+- **Languages:** Python, JavaScript
 - **Web Development:** HTML, CSS, React, Node.js, Express.js
 - **Data Science:** Pandas, NumPy, Scikit-learn, TensorFlow
 - **Tools and Platforms:** Git, Docker, Kubernetes, AWS
