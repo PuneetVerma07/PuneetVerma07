@@ -4,7 +4,7 @@
 
 ## About Me
 
-I am a passionate software developer with a keen interest in web development, data science, and open-source contributions. I enjoy solving complex problems, learning new technologies, and sharing knowledge with the community.
+I am a passionate software developer with a keen interest in web development and open-source contributions. I enjoy solving complex problems, learning new technologies, and sharing knowledge with the community.
 
 - 🔭 I’m currently working on **[Build a Transcriber]**
 - 🌱 I’m currently learning **[Full-stack(MERN)]**
@@ -15,9 +15,8 @@ I am a passionate software developer with a keen interest in web development, da
 
 ## Skills and Technologies
 
-- **Languages:** Python, JavaScript
+- **Languages:** JavaScript
 - **Web Development:** HTML, CSS, React, Node.js, Express.js
-- **Data Science:** Pandas, NumPy, Scikit-learn, TensorFlow
 - **Tools and Platforms:** Git, Docker, Kubernetes, AWS
 
 ## GitHub Stats
