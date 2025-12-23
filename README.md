@@ -38,8 +38,7 @@ I am a passionate software developer with a keen interest in web development and
 
 ## Projects
 
-- **[Project 1](https://github.com/PuneetVerma07/project1):** Brief description of Project 1.
-- **[Project 2](https://github.com/PuneetVerma07/project2):** Brief description of Project 2.
+
 
 ## Blog Posts
 
