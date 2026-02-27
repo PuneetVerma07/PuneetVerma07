@@ -4,7 +4,7 @@
 
 ## About Me
 
-I am a passionate software developer with a keen interest in web development and open-source contributions. I enjoy solving complex problems, learning new technologies, and sharing knowledge with the community.
+I build scalable full-stack applications using the MERN stack.
 
 - 🔭 I’m currently working on **[Build a Transcriber]**
 - 🌱 I’m currently learning **[Full-stack(MERN)]**
