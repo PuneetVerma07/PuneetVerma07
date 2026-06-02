@@ -53,7 +53,7 @@ I am a passionate software developer dedicated to building scalable and user-cen
 | :--- | :---: | :--- | :--- |
 | [Productivity Dashboard](https://productivity-dashboard-abp8.netlify.app/) | `HTML` `CSS` `JS` |  A personal productivity dashboard built with plain HTML, CSS, and JavaScript. | [![](https://img.shields.io/badge/Status-Completed-green)](https://github.com/PuneetVerma07/productivity-dashboard)  |
 | [GitHub Profile Checker](https://puneetverma07.github.io/GithubProfileChecker/) | `HTML` `Tailwind CSS` `JS - Fetch API` | Fast way to check user on github. |  [![](https://img.shields.io/badge/Status-Completed-green)](https://github.com/PuneetVerma07/GithubProfileChecker)   |
-| []() |  |  |  [![](https://img.shields.io/badge/Status-Completed-green)]()   |
+| [Erik Web Clone](https://erikclon.vercel.app/) | `HTML` `SCSS` | a clone of a website ``focused on UI`` |  [![](https://img.shields.io/badge/Status-Completed-green)](https://github.com/PuneetVerma07/erik_clone_web)   |
 | []() |  |  |  [![](https://img.shields.io/badge/Status-Completed-green)]()   |
 | []() |  |  |  [![](https://img.shields.io/badge/Status-Completed-green)]()   |
 
