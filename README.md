@@ -51,10 +51,8 @@ I am a passionate software developer dedicated to building scalable and user-cen
 
 | Project Name | Tech | Description | Link/Status |
 | :--- | :---: | :--- | :--- |
-| [Productivity Dashboard](https://productivity-dashboard-abp8.netlify.app/) | `HTML` `CSS` `JS` |  A personal productivity dashboard built with plain HTML, CSS, and JavaScript.
-
- | [![](https://img.shields.io/badge/Status-Completed-green)](https://github.com/PuneetVerma07/productivity-dashboard)  |
-| []() |  |  |  [![](https://img.shields.io/badge/Status-Completed-green)]()   |
+| [Productivity Dashboard](https://productivity-dashboard-abp8.netlify.app/) | `HTML` `CSS` `JS` |  A personal productivity dashboard built with plain HTML, CSS, and JavaScript. | [![](https://img.shields.io/badge/Status-Completed-green)](https://github.com/PuneetVerma07/productivity-dashboard)  |
+| [GitHub Profile Checker](https://puneetverma07.github.io/GithubProfileChecker/) | `HTML` `Tailwind CSS` `JS - Fetch API` | Fast way to check user on github. |  [![](https://img.shields.io/badge/Status-Completed-green)](https://github.com/PuneetVerma07/GithubProfileChecker)   |
 | []() |  |  |  [![](https://img.shields.io/badge/Status-Completed-green)]()   |
 | []() |  |  |  [![](https://img.shields.io/badge/Status-Completed-green)]()   |
 | []() |  |  |  [![](https://img.shields.io/badge/Status-Completed-green)]()   |
