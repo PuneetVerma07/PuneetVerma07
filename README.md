@@ -52,6 +52,22 @@ I am a passionate software developer dedicated to building scalable and user-cen
 | Project Name | Tech | Description | Link/Status |
 | :--- | :---: | :--- | :--- |
 | [Productivity Dashboard]() | `HTML` `CSS` `JS` |   | [![](https://img.shields.io/badge/Status-Completed-green)]()  |
+| []() |  |  |  [![](https://img.shields.io/badge/Status-Completed-green)]()   |
+| []() |  |  |  [![](https://img.shields.io/badge/Status-Completed-green)]()   |
+| []() |  |  |  [![](https://img.shields.io/badge/Status-Completed-green)]()   |
+| []() |  |  |  [![](https://img.shields.io/badge/Status-Completed-green)]()   |
+
+---
+
+## Backend Development Projects
+
+| Project Name | Tech | Description | Link/Status |
+| :--- | :---: | :--- | :--- |
+| []() |  |   | [![](https://img.shields.io/badge/Status-Completed-green)]()  |
+| []() |  |  |  [![](https://img.shields.io/badge/Status-Completed-green)]()   |
+| []() |  |  |  [![](https://img.shields.io/badge/Status-Completed-green)]()   |
+| []() |  |  |  [![](https://img.shields.io/badge/Status-Completed-green)]()   |
+| []() |  |  |  [![](https://img.shields.io/badge/Status-Completed-green)]()   |
 
 ---
 
