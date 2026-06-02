@@ -54,8 +54,8 @@ I am a passionate software developer dedicated to building scalable and user-cen
 | [Productivity Dashboard](https://productivity-dashboard-abp8.netlify.app/) | `HTML` `CSS` `JS` |  A personal productivity dashboard built with plain HTML, CSS, and JavaScript. | [![](https://img.shields.io/badge/Status-Completed-green)](https://github.com/PuneetVerma07/productivity-dashboard)  |
 | [GitHub Profile Checker](https://puneetverma07.github.io/GithubProfileChecker/) | `HTML` `Tailwind CSS` `JS - Fetch API` | Fast way to check user on github. |  [![](https://img.shields.io/badge/Status-Completed-green)](https://github.com/PuneetVerma07/GithubProfileChecker)   |
 | [Erik Web Clone](https://erikclon.vercel.app/) | `HTML` `SCSS` | a clone of a website ``focused on UI`` |  [![](https://img.shields.io/badge/Status-Completed-green)](https://github.com/PuneetVerma07/erik_clone_web)   |
-| []() |  |  |  [![](https://img.shields.io/badge/Status-Completed-green)]()   |
-| []() |  |  |  [![](https://img.shields.io/badge/Status-Completed-green)]()   |
+<!-- | []() |  |  |  [![](https://img.shields.io/badge/Status-Completed-green)]()   |
+| []() |  |  |  [![](https://img.shields.io/badge/Status-Completed-green)]()   | -->
 
 ---
 
@@ -63,11 +63,11 @@ I am a passionate software developer dedicated to building scalable and user-cen
 
 | Project Name | Tech | Description | Link/Status |
 | :--- | :---: | :--- | :--- |
-| []() |  |   | [![](https://img.shields.io/badge/Status-Completed-green)]()  |
+| [Moodey Player](https://github.com/PuneetVerma07/moodyPlayer) | `Node.JS` `Express.JS` `Face api` | Display songs according to user's mood by detecting his face.  | [![](https://img.shields.io/badge/Status-Completed-green)](https://github.com/PuneetVerma07/moodyPlayer)  |
+| [Image Caption Generator](https://github.com/PuneetVerma07/Image-Caption-Generator) | `Node.JS Express.JS Gemini API` | Generate Caption for an image that is provides in input |  [![](https://img.shields.io/badge/Status-Completed-green)](https://github.com/PuneetVerma07/Image-Caption-Generator)   |
+<!-- | []() |  |  |  [![](https://img.shields.io/badge/Status-Completed-green)]()   |
 | []() |  |  |  [![](https://img.shields.io/badge/Status-Completed-green)]()   |
-| []() |  |  |  [![](https://img.shields.io/badge/Status-Completed-green)]()   |
-| []() |  |  |  [![](https://img.shields.io/badge/Status-Completed-green)]()   |
-| []() |  |  |  [![](https://img.shields.io/badge/Status-Completed-green)]()   |
+| []() |  |  |  [![](https://img.shields.io/badge/Status-Completed-green)]()   | -->
 
 ---
 
