@@ -47,6 +47,14 @@ I am a passionate software developer dedicated to building scalable and user-cen
 
 ---
 
+## Frontend Web Development Projects
+
+| Project Name | Tech | Description | Link/Status |
+| :--- | :---: | :--- | :--- |
+| [Productivity Dashboard]() | `HTML` `CSS` `JS` |   | [![](https://img.shields.io/badge/Status-Completed-green)]()  |
+
+---
+
 ## 🌟 Featured Projects
 
 ### 🎵 [moodyPlayer](https://github.com/PuneetVerma07/moodyPlayer)
