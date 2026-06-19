@@ -73,6 +73,8 @@ I am a passionate software developer dedicated to building scalable and user-cen
 
 ## 🌟 Featured Projects
 
+[![My Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=puneetverma07&repo=moodyPlayer&theme=radical)](https://github.com/PuneetVerma07/moodyPlayer)
+
 ### 🎵 [moodyPlayer](https://github.com/PuneetVerma07/moodyPlayer)
 An AI-powered music recommender that uses **Face-API.js** to detect user mood and curate real-time playlists. Built with the **MERN** stack.
 
